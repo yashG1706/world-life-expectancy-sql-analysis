@@ -114,6 +114,35 @@ Used SQL window functions to calculate cumulative adult mortality by country and
 * Relational Data Analysis
 
 
+## Power BI Dashboard
+
+Built an interactive Power BI dashboard to visualize and explore global life expectancy, health, mortality, immunization, and economic indicators across 193 countries.
+
+### Dashboard Highlights
+
+* Average Life Expectancy, Adult Mortality, and GDP KPIs
+* Life Expectancy trends by year
+* Top 10 countries by Life Expectancy
+* Top 10 countries by Adult Mortality
+* GDP vs Life Expectancy analysis
+* BMI vs Life Expectancy analysis
+* Adult Mortality vs Life Expectancy analysis
+* Diphtheria vs Polio and Life Expectancy analysis
+* Interactive country filter
+
+### Tools Used
+
+* Power BI
+* MySQL
+* SQL
+* Data Analysis
+* Data Visualization
+
+### Power BI File
+
+[Download the Power BI Dashboard](World_Life_Expectancy_Dashboard.pbix)
+
+
 ## Project Structure
 
 📁 World-Life-Expectancy-Analysis
