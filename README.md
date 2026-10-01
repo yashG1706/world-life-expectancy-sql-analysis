@@ -113,19 +113,16 @@ Used SQL window functions to calculate cumulative adult mortality by country and
 * Handling Missing Data
 * Relational Data Analysis
 
-## Future Improvements
-
-* Build an interactive Power BI dashboard using the cleaned dataset
-* Add visualizations for life expectancy, GDP, BMI, and mortality trends
-* Perform statistical correlation analysis using Python
-* Develop additional country-level insights
 
 ## Project Structure
 
-```text
-world-life-expectancy-sql-analysis/
-│
-├── README.md
-│
-└── world_life_expectancy_analysis.sql
-```
+📁 World-Life-Expectancy-Analysis
+
+   📄 README.md
+
+   📄 World_Life_Expectancy.sql
+
+   📊 World_Life_Expectancy_Dashboard.pbix
+
+   📁 screenshots
+      🖼️ dashboard.png
